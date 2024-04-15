@@ -26,7 +26,7 @@ This Python script utilizes the Cloudmersive Validate API to validate email addr
 1. Run the script:
 
    ```bash
-   python validate_email.py
+   python main.py
    ```
 
 2. Enter the email address you want to verify when prompted.
